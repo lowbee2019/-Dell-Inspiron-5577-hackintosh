@@ -1,4 +1,4 @@
-# 戴尔5577 黑苹果
+# 戴尔5577 黑苹果 Dell-Inspiron-5577-hackintosh
 
 感谢[黑果小兵大佬](https://blog.daliansky.net)的博客
 
