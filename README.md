@@ -1,1 +1,0 @@
-# -Dell-Inspiron-5577-hackintosh
